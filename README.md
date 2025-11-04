@@ -4,6 +4,10 @@
 
 This challenge is **organized by Indian Data Club and DPDZero** to help learners practice SQL in a structured, hands-on way.  
 
+📊 Dataset:
+The dataset used for this challenge is taken from Kaggle.
+🔗 https://www.kaggle.com/datasets/jaderz/hospital-beds-management
+
 ## 🔧 Features
 - 📁 **21 Daily Folders** – Each day has questions and a challenge  
 - 📊 **Hands-on Practice** – Covers SELECT, JOIN, GROUP BY, and more  
