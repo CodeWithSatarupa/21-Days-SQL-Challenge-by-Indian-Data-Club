@@ -19,13 +19,3 @@ Understand the fundamentals of SQL and learn how to use the `SELECT` statement t
 
 ### 🏆 Daily Challenge
 **Question:** List all unique hospital services available in the hospital.  
-
----
-
-📊 **Dataset:**  
-This dataset is taken from **Kaggle**.  
-🔗 [Dataset Link – *Add Kaggle link here*]  
-
----
-
-🔙 [Back to Main README](../README.md)
