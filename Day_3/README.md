@@ -24,5 +24,3 @@ Retrieve the **top 5 weeks** with the **highest patient refusals** across all se
 - `patients_request`
 Sort the results by `patients_refused` in **descending** order.
 
-#### 📌 Hashtags
-`#IDCWithSQL` `#LearnSQL` `#SQLChallenge` `#DataAnalytics` `#SQLForBeginners` `#GrowthMindset` `#JourneyIntoTech`
