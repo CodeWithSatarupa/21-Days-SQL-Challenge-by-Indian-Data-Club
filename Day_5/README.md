@@ -16,8 +16,7 @@ Learn how to summarize and analyze data using SQL aggregate functions — powerf
 3. Find the minimum and maximum age of patients.  
 
 ## 🏆Daily Challenge:
-
-## Question:
+**Question:**  
 Calculate the total number of patients admitted, total patients refused, and the average patient satisfaction across all services and weeks.  
 Round the average satisfaction to **2 decimal places**.  
 
