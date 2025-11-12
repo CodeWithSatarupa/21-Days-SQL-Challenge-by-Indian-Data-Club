@@ -1,4 +1,4 @@
-# 📘 Day 8 – Date Functions ⏳
+# 📘 Day 9 – Date Functions ⏳
 # 🎯 Objective
 Master SQL Date Functions — essential tools for manipulating, calculating, and analyzing time-based data to uncover trends and durations.
 
