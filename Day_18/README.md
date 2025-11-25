@@ -1,4 +1,4 @@
-# 📘 Day 17 – Subqueries (SELECT & FROM Clause)
+# 📘 Day 18 – Subqueries (SELECT & FROM Clause)
 # 🚀 Objective
 Understand how to use subqueries inside SELECT, FROM (derived tables), and inline views to perform analytical calculations and comparisons directly in SQL.
 
