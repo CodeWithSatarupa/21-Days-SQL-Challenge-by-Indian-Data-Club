@@ -17,4 +17,4 @@ Learn how to use SQL aggregate window functions such as SUM() OVER and AVG() OVE
 
 # 🏆 Daily Challenge
 Create a trend analysis showing for each service and week: week_number , patients_admitted , running total of patients admitted (cumulative) , 3-week moving average of patient satisfaction (current week and 2 prior weeks)) , and thedifference between current week admissions and the service average.
-Filter results for weeks 10–20 only.
+Filter for weeks 10-20 only.
